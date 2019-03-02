@@ -19,7 +19,7 @@ export let handlers: {[name: string]: Handler} = {
             what: 'This is an API I built in the Node.js Master Class. This hello route was made for the Homework Assignment #1.', 
             course: 'pirple.thinkific.com', 
             course_info: "It's quite expensive but a good choice. You get taught all things you need for working with Node.js. If you can't afford that price, there's even a scholarship.",
-            github: '[repo]'
+            github: 'https://github.com/Darxoon/node-js-master-class-homework-assignment-1'
         })
     },
 
